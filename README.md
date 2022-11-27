@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Syauqi
+  Hey there, I'm Syauqi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=syauqi-a&label=Profile%20views&color=0e75b6&style=flat" alt="syauqi-a" /> </p>
 </h3>
 
@@ -140,7 +140,8 @@
 
 <h3 align="left">Support Me:</h3>
 <p>
-    <a href="http://www.buymeacoffee.com/syauqia"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="syauqia"></a>
-    <a href="https://ko-fi.com/syauqi_a"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="syauqi_a"></a>
+    <a href="http://www.buymeacoffee.com/syauqia"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="syauqia" title="Send me a tip with Buy Me a Coffe"></a>
+    <a href="https://ko-fi.com/syauqi_a"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="syauqi_a" title="Send me a tip with Ko-fi"></a>
+    <a href="https://trakteer.id/syauqi-a/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-purple-3.png" height="50" style="border:0px;height:50px;" alt="Trakteer Saya" title="Send me a cendol with Trakteer"></a>
 </p>
 
