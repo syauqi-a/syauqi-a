@@ -28,12 +28,12 @@
 
 <h3 align="left">Github Profile Stats:</h3>
 <p align="center" width="100%">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syauqi-a&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="syauqi-a)">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=syauqi-a&show_icons=true&locale=en&theme=midnight-purple" alt="syauqi-a"> 
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=syauqi-a&theme=midnight-purple" alt="syauqi-a"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=syauqi-a&show_icons=true&locale=en&theme=midnight-purple" alt="syauqi-a"> 
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=syauqi-a&theme=midnight-purple" alt="syauqi-a"> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syauqi-a&hide=css,scss,html&layout=compact&theme=midnight-purple" alt="syauqi-a)">
 </p>
 
 <br>
