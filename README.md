@@ -136,6 +136,8 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syauqi-a" alt="syauqi-a" /></a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=syauqi-a)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br>
 
 <h3 align="left">Support Me:</h3>
